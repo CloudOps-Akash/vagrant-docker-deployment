@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f9f9f9;
+    background-image: url('Docker.jpg');
+    /* Replace with your image file name */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+
+/* Adjust as needed */
+h1 {
+    color: #007bff;
+}
+
+p {
+    font-size: 18px;
+}

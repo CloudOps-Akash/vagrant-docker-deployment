@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Web App Deployment</title>
+</head>
+<body>
+	<h1>Web App Deployment Success! on <span id="hostname"></span> with Docker and NGINX</h1>
+	<script>
+		fetch('server_hostname.php')
+.then(response => response.text())
+.then(data => {
+  document.getElementById('hostname').textContent = data;
+})
+.catch(error => {
+  console.error('Error fetching hostname:', error);
+});
+	</script>
+</body>
+</html>
