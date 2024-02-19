@@ -30,7 +30,7 @@ Before getting started, ensure you have the following prerequisites installed:
 ## Setup
 1. Clone this repository to your local machine:
 ```bash
-git clone https://github.com/your-username/vagrant-docker-deployment.git
+git clone https://github.com/CloudOps-Akash/vagrant-docker-deployment
 ```
 2. Navigate to the project directory:
 ```bash
