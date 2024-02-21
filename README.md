@@ -1,14 +1,14 @@
 # Vagrant Docker Deployment
 The ultimate goal of this project is to streamline and standardize the deployment process of a web application by implementing Vagrant and Docker. Through Vagrant's efficient virtual machine management and Docker's powerful containerization, our deployment workflow is automated with ease and consistency.
 ## Table of Contents
-* [Introduction](https://github.com/CloudOps-Akash/vagrant-docker-deployment/edit/main/README.md#introduction)
-* [Features](https://github.com/CloudOps-Akash/vagrant-docker-deployment/edit/main/README.md#features)
-* [Requirements](https://github.com/CloudOps-Akash/vagrant-docker-deployment/edit/main/README.md#requiremets)
-* [Setup](https://github.com/CloudOps-Akash/vagrant-docker-deployment/edit/main/README.md#setup)
-* [Usage](https://github.com/CloudOps-Akash/vagrant-docker-deployment/edit/main/README.md#usage)
-* [Scripts](https://github.com/CloudOps-Akash/vagrant-docker-deployment/edit/main/README.md#scripts)
-* [Contributing](https://github.com/CloudOps-Akash/vagrant-docker-deployment/edit/main/README.md#contributing)
-* [License](https://github.com/CloudOps-Akash/vagrant-docker-deployment/edit/main/README.md#license)
+* [Introduction](https://github.com/CloudOps-Akash/vagrant-docker-deployment/#introduction)
+* [Features](https://github.com/CloudOps-Akash/vagrant-docker-deployment/#features)
+* [Requirements](https://github.com/CloudOps-Akash/vagrant-docker-deployment/#requiremets)
+* [Setup](https://github.com/CloudOps-Akash/vagrant-docker-deployment/#setup)
+* [Usage](https://github.com/CloudOps-Akash/vagrant-docker-deployment/#usage)
+* [Scripts](https://github.com/CloudOps-Akash/vagrant-docker-deployment/edit/#scripts)
+* [Contributing](https://github.com/CloudOps-Akash/vagrant-docker-deployment/#contributing)
+* [License](https://github.com/CloudOps-Akash/vagrant-docker-deployment/edit/#license)
 
 ## Introduction
 Automation is a key component in modern software development and DevOps strategies, effectively improving productivity and reducing the risk of human mistakes. To streamline the deployment process of a web application, this project utilizes Vagrant to set up virtual machines and Docker to containerize the application.
